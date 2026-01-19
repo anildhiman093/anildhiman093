@@ -1,59 +1,60 @@
 <!-- 🚀 High-Tech Animated GitHub Profile README -->
 <h1 align="center">
-  <span style="font-size: 42px; font-weight: bold; color: #ff6600;">Hey, I'm Anil Kumar! 👋</span>
+  <span style="font-size: 42px; font-weight: bold; color: #ff6600;">
+    Hey, I'm Anil Kumar! 👋
+  </span>
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=ff6600&center=true&vCenter=true&width=900&height=90&lines=Full-Stack+Developer+%7C+E-commerce+Expert;Building+Scalable%2C+Secure+%26+High-Performance+Web+Apps" alt="Typing animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=ff6600&center=true&vCenter=true&width=900&height=90&lines=Web+Developer+%7C+Mobile+App+Developer;Building+Fast%2C+Scalable+%26+Secure+Applications" alt="Typing animation">
 </p>
 
 ---
 
 ## 🚀 About Me
-✅ **5+ Years of Full-Stack Development Expertise**  
-✅ **Delivered 200+ Projects in Shopify, WordPress, Magento, Laravel, React & Node.js**  
-✅ **Scalable, Secure & High-Performance Web Applications**  
-✅ **Remote Work Globally | Budget-Friendly & Premium-Quality Development**  
-✅ **Worked Across Multiple Industries (E-commerce, Healthcare, Finance, EdTech & More)**  
-✅ **Prefer Long-Term Partnerships to Build Stable & Scalable Solutions**  
+✅ **5+ Years Experience in Web & Mobile App Development**  
+✅ **200+ Projects Delivered (Websites, Web Apps & Mobile Apps)**  
+✅ **Expert in Scalable, Secure & High-Performance Solutions**  
+✅ **Remote Work Worldwide | Affordable & Professional Quality**  
+✅ **Focused on Long-Term Client Relationships**  
 
 📧 **Email:** [anildhiman093@gmail.com](mailto:anildhiman093@gmail.com)  
-📞 **WhatsApp:** [+918591006815](https://wa.me/918591006815)  
+📞 **WhatsApp:** [+918591006815](https://wa.me/918591006815)
 
 ---
 
-## 🔥 Tech Stack & Tools
+## 🔥 Tech Stack
 
-### 🎨 Front-End Development
+### 🌐 Web Development
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,vue,angular,sass,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,vue,angular,nodejs,express,php,laravel" />
 </div>
 
-### ⚙️ Back-End Development
+### 📱 Mobile App Development
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,django,flask,nestjs" />
+  <img src="https://skillicons.dev/icons?i=react,flutter,androidstudio" />
 </div>
 
-### 🗄️ Database Management
+### 🗄️ Databases
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,redis,supabase" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase" />
 </div>
 
-### ☁️ Cloud & Servers
+### ☁️ Hosting & Deployment
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,vercel,netlify,heroku,digitalocean" />
+  <img src="https://skillicons.dev/icons?i=aws,vercel,netlify,digitalocean" />
 </div>
 
-### 🛠️ DevOps & Tools
+### 🛠️ Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,gitlab,jenkins,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,docker" />
 </div>
 
 ---
 
-## 💼 Hire Me!
-🌟 **Need a highly skilled developer at an affordable rate?**  
-💻 **Let's collaborate and create something impactful!**
+## 💼 Hire Me
+🌟 **Need a reliable Web or Mobile App Developer?**  
+💻 **Let’s build something fast, secure & scalable!**
 
 <p align="center">
   <a href="https://www.upwork.com/freelancers/~01e31068acba05463a?mp_source=share" target="_blank">
@@ -70,14 +71,12 @@
 ## 🌐 Connect With Me
 <p align="center">
 <a href="https://www.linkedin.com/in/anil-kumar-713b07144" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/_anil_dhiman" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <a href="https://www.facebook.com/anil.dhiman.148553" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 </p>
-
----
