@@ -58,7 +58,7 @@
 
 ## 📫 Contact & Hire Me
 
-<p align="center">
+<p align="center" style="display:flex; justify-content:center; gap:10px; flex-wrap:wrap;">
   <a href="https://www.upwork.com/freelancers/~01e31068acba05463a?mp_source=share" target="_blank">
     <img src="https://img.shields.io/badge/Upwork-Hire%20Me-ff6600?style=for-the-badge&logo=upwork&logoColor=white" />
   </a>
