@@ -1,5 +1,3 @@
-
-You said:
 <!-- 🚀 High-Tech Animated GitHub Profile README -->
 <h1 align="center">
   <span style="font-size: 42px; font-weight: bold; color: #ff6600;">Hey, I'm Anil Kumar! 👋</span>
@@ -60,6 +58,10 @@ You said:
 <p align="center">
   <a href="https://www.upwork.com/freelancers/~01e31068acba05463a?mp_source=share" target="_blank">
     <img src="https://img.shields.io/badge/Hire%20Me%20on%20Upwork-ff6600?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork">
+  </a>
+  <br><br>
+  <a href="https://www.fiverr.com/u_1b4dc382aba0" target="_blank">
+    <img src="https://img.shields.io/badge/Hire%20Me%20on%20Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr">
   </a>
   <br><br>
   <a href="https://wa.me/918591006815" target="_blank">
