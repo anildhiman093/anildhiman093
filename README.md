@@ -1,101 +1,83 @@
-<!-- ==========================
-🌟 Professional Full-Stack Developer GitHub README
-========================== -->
 
+You said:
+<!-- 🚀 High-Tech Animated GitHub Profile README -->
 <h1 align="center">
-  <strong style="font-size:48px; color:#ff6600;">Anil Kumar</strong>
+  <span style="font-size: 42px; font-weight: bold; color: #ff6600;">Hey, I'm Anil Kumar! 👋</span>
 </h1>
 
 <p align="center">
-  <em style="font-size:20px;">Full-Stack Developer | Web, Mobile & E-commerce Expert</em>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=ff6600&center=true&vCenter=true&width=900&height=90&lines=Full-Stack+Developer+%7C+E-commerce+Expert;Building+Scalable%2C+Secure+%26+High-Performance+Web+Apps" alt="Typing animation">
 </p>
 
-<!-- Typing (Fixed width so it won't cut) -->
-<p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=ff6600&center=true&vCenter=true&width=1200&height=70&lines=Building+Scalable,+Secure+%26+High-Performance+Apps;Turning+Ideas+into+Digital+Reality"
-    alt="Typing SVG"
-  />
-</p>
+---
 
-<hr style="border:1px solid #ff6600"/>
+## 🚀 About Me
+✅ **5+ Years of Full-Stack Development Expertise**  
+✅ **Delivered 200+ Projects in Shopify, WordPress, Magento, Laravel, React & Node.js**  
+✅ **Scalable, Secure & High-Performance Web Applications**  
+✅ **Remote Work Globally | Budget-Friendly & Premium-Quality Development**  
+✅ **Worked Across Multiple Industries (E-commerce, Healthcare, Finance, EdTech & More)**  
+✅ **Prefer Long-Term Partnerships to Build Stable & Scalable Solutions**  
 
-## 💼 Expertise
+📧 **Email:** [anildhiman093@gmail.com](mailto:anildhiman093@gmail.com)  
+📞 **WhatsApp:** [+918591006815](https://wa.me/918591006815)  
 
+---
+
+## 🔥 Tech Stack & Tools
+
+### 🎨 Front-End Development
 <div align="center">
-
-### 🌐 Web Development
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,vue,angular,nodejs,express,php,laravel" />
-
-### 📱 Mobile App Development
-<img src="https://skillicons.dev/icons?i=react,flutter,androidstudio" />
-
-### 🛒 E-commerce Development
-<p><em>Shopify • WordPress/WooCommerce • Magento • Wix • Squarespace</em></p>
-<img src="https://skillicons.dev/icons?i=shopify,wordpress,woocommerce,magento,wix,squarespace" />
-
-### ⚡ Low-Code / No-Code Platforms
-<p><em>Rapid development without heavy coding</em></p>
-<!-- Note: skillicons doesn't support loveable/glide/adalo reliably, so keep icon(s) clean and add platforms as text -->
-<img src="https://skillicons.dev/icons?i=webflow" />
-<p><strong>Loveable • Webflow • No-Code Builders</strong></p>
-
-### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase" />
-
-### ☁️ Hosting & Deployment
-<img src="https://skillicons.dev/icons?i=aws,vercel,netlify,digitalocean" />
-
-### 🛠️ Tools & DevOps
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma" />
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,vue,angular,sass,bootstrap,tailwind" />
 </div>
 
-<hr style="border:1px solid #ff6600"/>
+### ⚙️ Back-End Development
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,django,flask,nestjs" />
+</div>
 
-## 📊 GitHub Stats & Activity
+### 🗄️ Database Management
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,redis,supabase" />
+</div>
 
-<!-- Fixed username: anildhiman093 -->
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=anildhiman093&show_icons=true&theme=radical&hide_border=true&count_private=true"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=anildhiman093&theme=radical&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
+### ☁️ Cloud & Servers
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws,vercel,netlify,heroku,digitalocean" />
+</div>
 
-<hr style="border:1px solid #ff6600"/>
+### 🛠️ DevOps & Tools
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,gitlab,jenkins,postman,figma" />
+</div>
 
-## 📫 Contact & Hire Me
+---
 
-<!-- Clean professional buttons -->
+## 💼 Hire Me!
+🌟 **Need a highly skilled developer at an affordable rate?**  
+💻 **Let's collaborate and create something impactful!**
+
 <p align="center">
   <a href="https://www.upwork.com/freelancers/~01e31068acba05463a?mp_source=share" target="_blank">
-    <img src="https://img.shields.io/badge/Upwork-Hire%20Me-6fda44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/>
+    <img src="https://img.shields.io/badge/Hire%20Me%20on%20Upwork-ff6600?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork">
   </a>
-  <a href="https://www.fiverr.com/u_1b4dc382aba0" target="_blank">
-    <img src="https://img.shields.io/badge/Fiverr-Hire%20Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr"/>
-  </a>
+  <br><br>
   <a href="https://wa.me/918591006815" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+    <img src="https://img.shields.io/badge/Chat%20on%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
 </p>
 
-<hr style="border:1px solid #ff6600"/>
+---
 
-## 🎯 Why Hire Me?
-
-- **5+ Years Experience** in Web, Mobile & E-commerce  
-- **200+ Projects Delivered** worldwide  
-- **Clean Code & Scalable Architecture**  
-- **UI/UX Friendly & Professional Design**  
-- **Low-Code / No-Code Platforms Expertise**  
-- **Remote & Budget-Friendly Development**  
-- **Long-Term Partnerships Preferred**  
-
+## 🌐 Connect With Me
 <p align="center">
-  <em>Let’s turn your idea into a high-quality digital solution.</em>
+<a href="https://www.linkedin.com/in/anil-kumar-713b07144" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://www.instagram.com/_anil_dhiman" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="https://www.facebook.com/anil.dhiman.148553" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+</a>
 </p>
